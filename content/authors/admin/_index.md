@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Marko Tesic
+title: Marko Tešić
 
 # Is this the primary user of the site?
 superuser: true
@@ -77,5 +77,3 @@ I received a Ph.D. in Psychology from [Birkbeck's Psychological Sciences departm
 You can find more information on my research on this site.
 
 I also play the violin in [Paprika: The Balkan and East European band](https://www.paprikamusic.com) and [The Pico Players](https://www.thepicoplayers.org).
-
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
