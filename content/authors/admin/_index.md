@@ -72,8 +72,8 @@ highlight_name: true
 
 I am a [Royal Academy of Engineering UK IC](https://www.raeng.org.uk/grants-prizes/grants/support-for-research/ic-postdoctoral/current-and-recent-awards) postdoctoral research fellow at [Birkbeck, University of London](https://www.bbk.ac.uk/departments/psychology). I currently explore the effects that explanations of AI predictions can have on our beliefs. I also have a strong interest in causal modeling and Bayesian network analysis. 
 
-I received a Ph.D. in Psychology from [Birkbeck's Psychological Sciences department](https://www.bbk.ac.uk/departments/psychology). Before that I received an M.A. in Logic and Philosophy of Science from [the Munich Center for Mathematical Philosophy, LMU](https://www.mcmp.philosophie.uni-muenchen.de/index.html) and a B.A. in Philosophy from [University of Belgrade, Serbia](https://www.f.bg.ac.rs/en2). See my CV for more info on my background and research and work experience.
+I received a Ph.D. in Psychology from [Birkbeck's Psychological Sciences department](https://www.bbk.ac.uk/departments/psychology). Before that I received an M.A. in Logic and Philosophy of Science from [the Munich Center for Mathematical Philosophy, LMU](https://www.mcmp.philosophie.uni-muenchen.de/index.html) and a B.A. in Philosophy from [University of Belgrade, Serbia](https://www.f.bg.ac.rs/en2). See my CV for more info on my background, research and work experience.
 
-You can find more information on my research on this site.
+You can find more about my [research](/guides/content/editing-an-existing-page) and projectes on this website.
 
 I also play the violin in [Paprika: The Balkan and East European band](https://www.paprikamusic.com) and [The Pico Players](https://www.thepicoplayers.org).
