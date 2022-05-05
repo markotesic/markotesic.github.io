@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Marko Tesic
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Royal Academy of Engineering Postdoctoral Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
