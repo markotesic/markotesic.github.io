@@ -31,7 +31,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: c
     show_logo: true
     show_language: false
     show_day_night: true
@@ -42,7 +42,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year}. This work is licensed under {license}'
+    notice: '© {year}.' #This work is licensed under {license}
     license:
       enable: false
       allow_derivatives: false
