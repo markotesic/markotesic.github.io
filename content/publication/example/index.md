@@ -39,9 +39,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Publisher link
-#   url: https://link.springer.com/article/10.1007/s11229-017-1501-1
+ links:
+ - name: Link to publisher
+   url: https://link.springer.com/article/10.1007/s11229-017-1501-1
 
 url_pdf: ''
 url_code: ''
