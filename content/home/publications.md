@@ -9,9 +9,9 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 65
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 
 date_format: 2006
