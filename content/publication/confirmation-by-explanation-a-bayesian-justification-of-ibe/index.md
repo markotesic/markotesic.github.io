@@ -14,7 +14,7 @@ abstract: We provide a novel Bayesian justification of inference to the best
   naturally with the best known criticisms of IBE such as van Fraassen’s ‘bad
   lot’ argument.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
