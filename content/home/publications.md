@@ -34,6 +34,6 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: showcase_corr
+  view: new_view
   columns: '2'
 ---
