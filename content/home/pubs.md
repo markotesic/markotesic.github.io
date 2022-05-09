@@ -19,6 +19,8 @@ content:
   count: 0
   # Filter on criteria
   filters:
+    folders:
+      - publication
     author: ''
     category: ''
     publication_type: ''
