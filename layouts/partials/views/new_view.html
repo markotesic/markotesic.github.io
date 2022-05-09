@@ -30,7 +30,7 @@
     </div>
     {{ end }}
     <span>
-      {{ partial "functions/get_event_dates" $item.Date.Format "2006" }}
+      {{ partial "functions/get_event_dates" $item }}
     </span>
     {{ with $item.Params.location }}
     <span class="middot-divider"></span>
