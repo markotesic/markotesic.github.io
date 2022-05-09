@@ -37,7 +37,7 @@ url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-publication: "*Synthese,196*(3), 1097–1129"
+publication: "*Synthese*"
 featured: true
 date: 2017-07-26T00:00:00Z
 url_slides: ""
