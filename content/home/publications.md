@@ -34,6 +34,6 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: showcase
+  view: card
   columns: '2'
 ---
