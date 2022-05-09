@@ -39,9 +39,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
- links:
- - name: Custom Link
-   url: content/publication/Confirmation_reduction
+# links:
+# - name: Custom Link
+#   url: content/publication/Confirmation_reduction
 
 url_pdf: ''
 url_code: ''
