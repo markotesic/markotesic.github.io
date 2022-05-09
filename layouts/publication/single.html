@@ -60,6 +60,7 @@
     <div class="article-style">{{ .Content }}</div>
 
     {{ partial "page_footer" . }}
+    {{ .Date.Format "2006" }}
 
   </div>
 </div>
