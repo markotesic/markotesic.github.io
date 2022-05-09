@@ -1,5 +1,5 @@
 ---
-title: "Confirmation by Explanation: A Bayesian Justification of IBE"
+title: "Small change Confirmation by Explanation: A Bayesian Justification of IBE"
 publication_types:
   - "3"
 authors:
