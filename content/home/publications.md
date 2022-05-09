@@ -14,8 +14,6 @@ weight: 65
 title: Publications
 subtitle: ''
 
-date_format: 2006
-
 content:
   # Filter on criteria
   filters:
@@ -36,6 +34,6 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: cite
+  view: citation
   columns: '2'
 ---
