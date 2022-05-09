@@ -51,9 +51,6 @@
   <div class="card-text">
     <h4><a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title | markdownify | emojify }}</a></h4>
 
-  <div class="section-subheading article-title mb-1 mt-3">
-    <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
-  </div>
     
     {{ with $summary }}
     <div class="article-style">
