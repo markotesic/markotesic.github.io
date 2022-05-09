@@ -32,7 +32,6 @@
     <span>
       {{ $item.Date.Format "2006" }}
     </span>
-    {{ with $item.Params.location }}
     <span class="middot-divider"></span>
     <span>{{ . }}</span>
     {{ end }}
