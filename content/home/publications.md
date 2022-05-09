@@ -14,6 +14,8 @@ weight: 80
 title: Recent Publications
 subtitle: ''
 
+date_format: 2006
+
 content:
   # Filter on criteria
   filters:
