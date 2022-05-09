@@ -4,23 +4,7 @@ authors:
   - admin
   - David Lagnado
 publication_short: ""
-abstract: In their 2010 paper, Dizadji-Bahmani, Frigg, and Hartmann (henceforth
-  'DFH') argue that the generalized version of the Nagel-Schaffner model that
-  they have developed (henceforth 'the GNS') is the right one for intertheoretic
-  reduction, i.e. the kind of reduction that involves theories with largely
-  overlapping domains of application. Drawing on the GNS, DFH (2011) presented a
-  Bayesian analysis of the confirmatory relation between the reducing theory and
-  the reduced theory and argued that, post-reduction, evidence confirming the
-  reducing theory also confirms the reduced theory and evidence confirming the
-  reduced theory also confirms the reducing theory, which meets the expectations
-  one has about theories with largely overlapping domains. In this paper, I
-  argue that the Bayesian analysis presented by DFH (2011) faces difficulties.
-  In particular, I argue that the conditional probabilities that DFH introduce
-  to model the bridge law entail consequences that run against the GNS. However,
-  I also argue that, given slight modifications of the analysis that are in
-  agreement with the GNS, one is able to account for these difficulties and,
-  moreover, one is able to more rigorously analyse the confirmatory relation
-  between the reducing and the reduced theory.
+abstract: Recent research suggests that people do not perform well on some of the most crucial components of causal reasoning: probabilistic independence, diagnostic reasoning, and explaining away. Despite this, it remains unclear what contexts would affect people’s reasoning in these domains. In the present study we investigated the influence of manipulating priors of causes and structural complexity of Causal Bayesian Networks (CBNs) on the above components. Overall we found that participants largely accepted the priors and understood probabilistic independence, but engaged in inaccurate diagnostic reasoning and insufficient explaining away behavior. Moreover, the effect of manipulating priors on participants’ performance in diagnostic reasoning and explaining away was significantly larger in a structurally less complex CBN than in a structurally more complex CBN.
 tags: []
 projects: []
 slides: ""
@@ -32,16 +16,14 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.jpg
-summary: Analyzing confirmation between theories in cases of intertheoretic
-  reduction (e.g. reducing thermodynamics to statistical mechanics) using
-  Bayesian networks.
+summary: Investigating people's reasoning in explaining away situations by manipulating the priors of causes and the structural complexity of the causal Baeysian networks.
 url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
 publication: "*Proceedings of the 40th Annual Meeting of the Cognitive Science Society*"
 featured: true
-date: 2017-07-26T00:00:00Z
+date: 2018-07-26T00:00:00Z
 url_slides: ""
 title: "Explaining away: Significance of priors, diagnostic reasoning, and structural complexity"
 url_poster: ""
