@@ -34,7 +34,7 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: 5
+  view: compact
   columns: '2'
 ---
 
