@@ -98,7 +98,7 @@ features:
 
 extensions:
   cms:
-    branch: master
+    branch: main
     local_backend: false
   academicons:
     enable: true
