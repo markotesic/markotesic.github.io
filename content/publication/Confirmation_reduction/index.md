@@ -1,5 +1,5 @@
 ---
-title: 'New Confirmation and the Generalized Nagel-Schaffner Model of Reduction: A Bayesian Analysis'
+title: 'Newer Confirmation and the Generalized Nagel-Schaffner Model of Reduction: A Bayesian Analysis'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
