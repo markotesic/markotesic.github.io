@@ -23,7 +23,7 @@ url_source: ""
 url_video: ""
 publication: "*Proceedings of the 40th Annual Meeting of the Cognitive Science Society*"
 featured: true
-date: 2018-07-26T00:00:00Z
+date: 2018
 url_slides: ""
 title: "Explaining away: Significance of priors, diagnostic reasoning, and structural complexity"
 url_poster: ""
