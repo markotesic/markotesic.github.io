@@ -34,10 +34,6 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: masonry
+  view: list
   columns: '2'
 ---
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
