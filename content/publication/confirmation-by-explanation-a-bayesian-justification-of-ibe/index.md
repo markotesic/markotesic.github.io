@@ -4,8 +4,8 @@ publication_types:
   - "3"
 authors:
   - admin
-  - BenEva
-  - StephanHartman
+  - Benjamin Eva
+  - Stephan Hartmann
 abstract: We provide a novel Bayesian justification of inference to the best
   explanation (IBE). More specifically, we present conditions under which
   explanatory considerations can provide a significant confirmatory boost for
