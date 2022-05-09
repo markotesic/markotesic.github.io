@@ -10,7 +10,7 @@ projects: []
 slides: ""
 url_pdf: "https://cogsci.mindmodeling.org/2018/papers/0390/0390.pdf"
 publication_types:
-  - "2"
+  - "1"
 image:
   caption: ""
   focal_point: ""
