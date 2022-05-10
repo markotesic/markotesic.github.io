@@ -1,7 +1,6 @@
 ---
 authors:
   - admin
-  - Ulrike Hahn
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
