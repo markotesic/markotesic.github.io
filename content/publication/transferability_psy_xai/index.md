@@ -44,7 +44,7 @@ url_project: ""
 url_source: ""
 url_video: ""
 publication: "*Human Centered AI workshop at NeurIPS 2021*"
-featured: true
+featured: false
 date: 2021-12-01
 url_slides: ""
 title: "On the transferability of insights from the psychology of explanation to explainable AI"
