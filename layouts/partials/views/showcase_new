@@ -12,7 +12,6 @@
 {{ $link := $item.Params.external_link | default $item.RelPermalink }}
 {{ $target := .target }}
 
-
 {{/* Get summary. */}}
 {{ $summary := "" }}
 {{ if $item.Params.summary }}
