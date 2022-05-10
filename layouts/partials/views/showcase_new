@@ -3,14 +3,14 @@
 {{ $index := .index }}
 
 {{ $do_link := true }}
-{{ if $item.Params.external_link | or $item.Content }}
+{{ if $item.RelPermalink | or $item.Content }}
   {{ $do_link = true }}
 {{ else }}
   {{ $do_link = false }}
 {{ end }}
 
 {{ $link := $item.RelPermalink }}
-{{ $target := "" }}
+{{ $target := .target }}
 
 
 {{/* Get summary. */}}
