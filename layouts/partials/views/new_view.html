@@ -38,7 +38,9 @@
     {{ end }}
   </div>
   {{ else }}
-    {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
+    <div>
+      {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
+    </div>
   {{ end }}
 
   {{ with $resource }}
