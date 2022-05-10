@@ -12,7 +12,7 @@ projects: []
 slides: ""
 url_pdf: ""
 publication_types:
-  - "1"
+  - "6"
 image:
   caption: ""
   focal_point: ""
@@ -30,5 +30,5 @@ url_slides: ""
 title: "Explanation in AI systems"
 url_poster: ""
 url_code: ""
-doi: ""
+doi: "10.1093/oso/9780198862536.001.0001"
 ---
