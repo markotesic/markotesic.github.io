@@ -24,7 +24,7 @@ url_project: ""
 url_source: ""
 url_video: ""
 publication: "*Human-Like Machine Intelligence*"
-featured: true
+featured: false
 date: 2021-01-01
 url_slides: ""
 title: "Explanation in AI systems"
