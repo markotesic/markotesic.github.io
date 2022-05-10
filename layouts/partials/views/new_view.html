@@ -23,7 +23,7 @@
 <div class="card">
   
   {{ if eq $item.Type "event" }}
-  <div class="article-metadata">
+  <div class="article-metadata-new">
     {{ if $item.Params.authors }}
     <div>
       {{ partial "page_metadata_authors" $item }}
@@ -38,7 +38,7 @@
     {{ end }}
   </div>
   {{ else }}
-  <div class="article-metadata">
+  <div class="article-metadata-new">
     {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
   </div>
   {{ end }}
