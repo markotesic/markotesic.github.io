@@ -127,9 +127,31 @@
 }
 
 .article-metadata {
+  margin-bottom: 15px;
+  overflow: hidden;
+  font-size: 14px;
+  letter-spacing: 0.03em;
+  color: rgba(0, 0, 0, 0.54);
+
+  a {
+    color: rgba(0, 0, 0, 0.54);
+  }
+  a:hover {
+    color: $sta-primary;
+  }
+  .author-notes {
+    cursor: help;
+    padding-left: 3px;
+  }
+  .author-highlighted {
+    font-weight: bold;
+  }
+}
+
+.article-metadata-new {
   margin-bottom: 5px;
-  margin-top: 15px;
-  margin-left: 15px;
+  margin-top: 7px;
+  margin-left: 7px;
   overflow: hidden;
   font-size: 14px;
   letter-spacing: 0.03em;
