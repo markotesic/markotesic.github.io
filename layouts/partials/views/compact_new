@@ -28,6 +28,8 @@
   {{ $summary = $item.Summary }}
 {{ end }}
 
+{{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
+
 <div class="media stream-item view-compact">
   <div class="media-body">
 
@@ -73,10 +75,9 @@
     {{ end }}
 
   </div>
+  {{ with $resource }}
+  {{ $image := .Resize "450x webp" }}
   <div class="ml-3">
-    {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
-    {{ with $resource }}
-    {{ $image := .Resize "450x webp" }}
     <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
       <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
            alt="{{ $item.Title }}" loading="lazy">
