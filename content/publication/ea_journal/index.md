@@ -25,7 +25,7 @@ url_project: ""
 url_source: ""
 url_video: ""
 publication: "*Cognitive Psychology*"
-featured: true
+featured: false
 date: 2020-07-01
 url_slides: ""
 title: "The propensity interpretation of probability and diagnostic split in explaining away"
