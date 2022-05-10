@@ -52,10 +52,10 @@
       {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
       {{ with $resource }}
       {{ $image := .Resize "540x webp" }}
-      {{if $do_link}}<a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{end}}
+      <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>
         <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
              alt="{{ $item.Title }}" loading="lazy">
-      {{if $do_link}}</a>{{end}}
+      </a>
       {{end}}
     </div>
   </div>
