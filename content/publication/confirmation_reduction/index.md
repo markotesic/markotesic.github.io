@@ -38,7 +38,7 @@ url_project: ""
 url_source: ""
 url_video: ""
 publication: "*Synthese*"
-featured: true
+featured: false
 date: 2017-07-26T00:00:00Z
 url_slides: ""
 title: "Confirmation and the Generalized Nagel-Schaffner Model of Reduction: A
