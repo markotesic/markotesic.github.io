@@ -38,14 +38,14 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.jpg
-summary: ""
+summary: "A discussion of the consequences of directly applying the insights from the psychology of explanation (that mostly focuses on causal explanations) to explainable AI (where most AI systems are based on associations)."
 url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
 publication: "*Human Centered AI workshop at NeurIPS 2021*"
 featured: true
-date: 2019-01-01
+date: 2021-12-01
 url_slides: ""
 title: "On the transferability of insights from the psychology of explanation to explainable AI"
 url_poster: ""
