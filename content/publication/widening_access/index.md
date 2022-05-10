@@ -28,7 +28,7 @@ url_project: ""
 url_source: ""
 url_video: ""
 publication: "*Frontiers in Psychology*"
-featured: true
+featured: false
 date: 2020-04-09
 url_slides: ""
 title: "Widening Access to Bayesian Problem Solving"
