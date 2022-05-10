@@ -1,8 +1,8 @@
 ---
 authors:
   - admin
-  - AliceLiefgreen
-  - DavidLagnado
+  - Alice Liefgreen
+  - David Lagnado
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
