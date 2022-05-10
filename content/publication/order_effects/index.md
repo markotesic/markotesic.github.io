@@ -24,7 +24,7 @@ url_project: ""
 url_source: ""
 url_video: ""
 publication: "*Proceedings of the 41th Annual Meeting of the Cognitive Science Society*"
-featured: true
+featured: false
 date: 2019-01-01
 url_slides: ""
 title: "Sequential diagnostic reasoning with independent causes"
