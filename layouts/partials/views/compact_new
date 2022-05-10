@@ -75,13 +75,14 @@
     {{ end }}
 
   </div>
-  {{ with $resource }}
-  {{ $image := .Resize "450x webp" }}
-  <div class="ml-3">
-    <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
-      <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
-           alt="{{ $item.Title }}" loading="lazy">
-    </a>
-    {{end}}
-  </div>
+  <div class="col-12 col-md-6 order-first {{$order}}">
+      {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
+      {{ with $resource }}
+      {{ $image := .Resize "540x webp" }}
+      <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>
+        <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
+             alt="{{ $item.Title }}" loading="lazy">
+      </a>
+      {{end}}
+    </div>
 </div>
