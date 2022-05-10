@@ -19,7 +19,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.jpg
-summary: "A Bayesian justification of the Inference to the Best Explanation (IBE)."
+summary: "A justification of the Inference to the Best Explanation (IBE) by finding conditions under which the best explanation of evidence can provide a confirmatory boost for the hypotheses under consideration."
 url_dataset: ""
 url_project: ""
 url_source: ""
