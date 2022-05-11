@@ -6,7 +6,7 @@ summary: An example of using the in-built project page.
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Data Study Group
   focal_point: Smart
 
 # links:
