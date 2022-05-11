@@ -6,7 +6,7 @@ summary: As part of an Alan Turing Data Study Group team I worked on predicting 
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Data study group
   focal_point: Smart
 
 # links:
