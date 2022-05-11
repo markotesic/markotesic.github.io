@@ -32,7 +32,7 @@
   <div class="media-body">
 
     <div class="section-subheading article-title mb-0 mt-0">
-      <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
+      <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title | markdownify | emojify }}</a>
     </div>
 
     {{ with $summary }}
