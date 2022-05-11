@@ -26,7 +26,7 @@ url_source: ""
 url_video: ""
 publication: ""
 featured: true
-date: 2022-03-01
+date: 2022-04-01
 url_slides: ""
 title: "Can counterfactual explanations of AI systems’ predictions skew lay users’ causal intuitions about the world? If so, can we correct for that?"
 url_poster: ""
