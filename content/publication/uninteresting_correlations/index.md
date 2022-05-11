@@ -29,7 +29,7 @@ publication: ""
 featured: true
 date: 2022-03-01
 url_slides: ""
-title: " (Un)interesting correlations: What are the chances that correlations lead to causation?"
+title: "(Un)interesting correlations: What are the chances that correlations lead to causation?"
 url_poster: ""
 url_code: ""
 doi: ""
