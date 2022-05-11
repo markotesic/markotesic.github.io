@@ -26,5 +26,4 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
 As part of a Data Study Group team I worked on optimizing Morrisons Supermarkets supply chain to minimize waste. Specifically, I worked on predicting deliveries to stores such that the waste is minimized and the sales aren't negatively impacted. I've used gradient-boosted trees models to help predict these deliveries. You can find the results of that work in Section 3.2 of the report.
