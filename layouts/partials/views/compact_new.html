@@ -73,7 +73,7 @@
     {{ end }}
 
   </div>
-  <div class="card">
+  <div class="ml-3">
     {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
     {{ with $resource }}
     {{ $image := .Resize "350x webp" }}
