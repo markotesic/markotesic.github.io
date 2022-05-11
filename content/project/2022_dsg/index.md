@@ -1,6 +1,6 @@
 ---
 title: 'Turing Data Study Group: Optimising the supply chain to minimise waste and delivery mileage'
-summary: An example of using the in-built project page.
+summary: As part of an Alan Turing Data Study Group team I worked on predicting deliveries to stores such that waste is minimized.
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
