@@ -15,7 +15,7 @@ image:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: "https://www.turing.ac.uk/sites/default/files/2022-04/the_alan_turing_institute_data_study_group_final_report_-_morrisons.pdf"
+url_pdf: ""
 
 url_slides: ''
 url_video: ''
