@@ -32,7 +32,7 @@
   <div class="media-body">
 
     <div class="section-subheading article-title mb-0 mt-0">
-      <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title | markdownify | emojify }}</a>
+      <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
     </div>
 
     {{ with $summary }}
@@ -73,7 +73,7 @@
     {{ end }}
 
   </div>
-  <div class="ml-3">
+  <div class="card">
     {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
     {{ with $resource }}
     {{ $image := .Resize "350x webp" }}
