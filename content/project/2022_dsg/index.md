@@ -1,12 +1,12 @@
 ---
-title: Turing Data Study Group: Optimising the supply chain to minimise waste and delivery mileage
-summary: As part of an Alan Turing Data Study Group team I worked on predicting deliveries to stores such that waste is minimized.
+title: Example Project
+summary: An example of using the in-built project page.
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Data study group
+  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 # links:
@@ -15,7 +15,7 @@ image:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: ""
+url_pdf: ''
 url_slides: ''
 url_video: ''
 
@@ -27,4 +27,4 @@ url_video: ''
 slides: ""
 ---
 
-As part of a Data Study Group team I worked on optimizing Morrisons Supermarkets supply chain to minimize waste. Specifically, I worked on predicting deliveries to stores such that the waste is minimized and the sales aren't negatively impacted. I've used gradient-boosted trees models to help predict these deliveries. You can find the results of that work in Section 3.2 of the report.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
