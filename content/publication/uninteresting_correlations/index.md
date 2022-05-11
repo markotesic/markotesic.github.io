@@ -19,7 +19,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.jpg
-summary: "We use directed acyclic graphs to investigate the chances that two variables are causally connected, correlated, and that a covariate is inducing a correlation when controlled for."
+summary: "We use directed acyclic graphs (DAGs) to investigate the chances that two variables are causally connected, correlated, and that a covariate is inducing a correlation when controlled for."
 url_dataset: ""
 url_project: ""
 url_source: ""
