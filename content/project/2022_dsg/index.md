@@ -14,7 +14,7 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com/markotesic/DSG_Morrisons/blob/main/Morrisons_PCA_XGboost_mt.R'
+url_code: 'https://github.com/markotesic/DSG_Morrisons'
 url_pdf: 'https://www.turing.ac.uk/sites/default/files/2022-04/the_alan_turing_institute_data_study_group_final_report_-_morrisons.pdf'
 
 url_slides: ''
