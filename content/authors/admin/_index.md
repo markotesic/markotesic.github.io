@@ -49,9 +49,9 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Marko-Tesic
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=_uxA9nMAAAAJ&hl=en&oi=ao
+#  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+#    icon_pack: ai
+#    link: https://scholar.google.co.uk/citations?user=_uxA9nMAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/markotesic
@@ -70,10 +70,8 @@ email: ''
 highlight_name: true
 ---
 
-I am a [Royal Academy of Engineering UK IC](https://www.raeng.org.uk/grants-prizes/grants/support-for-research/ic-postdoctoral/current-and-recent-awards) postdoctoral research fellow at [Birkbeck, University of London](https://www.bbk.ac.uk/departments/psychology). I currently explore the effects that explanations of AI predictions can have on our beliefs. Previously, I investigated people's causal-probabilistic reasoning and decision-making. I also have a strong interest in data analysis, causal modeling and Bayesian network analysis. 
+I am a [Royal Academy of Engineering UK IC](https://www.raeng.org.uk/grants-prizes/grants/support-for-research/ic-postdoctoral/current-and-recent-awards) postdoctoral research fellow at [Birkbeck, University of London](https://www.bbk.ac.uk/departments/psychology). I currently explore the effects that explanations of AI predictions can have on our beliefs. Previously, I've investigated people's causal and probabilistic reasoning. I also have a strong interest in data analysis, causal modeling and Bayesian network analysis. 
 
 I received a Ph.D. in Psychology from [Birkbeck's Psychological Sciences department](https://www.bbk.ac.uk/departments/psychology). Before that I received an M.A. in Logic and Philosophy of Science from [the Munich Center for Mathematical Philosophy, LMU](https://www.mcmp.philosophie.uni-muenchen.de/index.html) and a B.A. in Philosophy from [University of Belgrade, Serbia](https://www.f.bg.ac.rs/en2). See my [CV](uploads/resume.pdf) for more info on my background, research and work experience.
-
-You can find more about my research under [publications](#pubs) and [projects](#projects).
 
 I also play the violin in [Paprika: The Balkan and East European band](https://www.paprikamusic.com) and [The Pico Players](https://www.thepicoplayers.org).
