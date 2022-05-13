@@ -11,7 +11,7 @@ abstract: ""
 tags: []
 projects: []
 slides: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/pdf/2205.06241.pdf"
 publication_types:
   - "3"
 image:
