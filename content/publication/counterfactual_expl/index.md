@@ -6,7 +6,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 publication_short: ""
-abstract: ""
+abstract: "Counterfactual (CF) explanations have been employed as one of the modes of explainability in explainable AI-both to increase the transparency of AI systems and to provide recourse. Cognitive science and psychology, however, have pointed out that people regularly use CFs to express causal relationships. Most AI systems are only able to capture associations or correlations in data so interpreting them as casual would not be justified. In this paper, we present two experiment (total N = 364) exploring the effects of CF explanations of AI system's predictions on lay people's causal beliefs about the real world. In Experiment 1 we found that providing CF explanations of an AI system’s predictions does indeed (unjustifiably) affect people's causal beliefs regarding factors/features the AI uses and that people are more likely to view them as causal factors in the real world. Inspired by the literature on misinformation and health warning messaging, Experiment 2 tested whether we can correct for the unjustified change in causal beliefs. We found that pointing out that AI systems capture correlations and not necessarily causal relationships can attenuate the effects of CF explanations on people’s causal beliefs."
 tags: []
 projects: []
 slides: ""
