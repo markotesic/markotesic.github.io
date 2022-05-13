@@ -2,7 +2,6 @@
 authors:
   - admin
   - Ulrike Hahn
-  - Kirsty Phillips
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
