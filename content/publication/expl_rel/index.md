@@ -10,7 +10,7 @@ abstract: "Providing an explanation is a communicative act. It includes an expla
 tags: []
 projects: []
 slides: ""
-url_pdf: ""
+url_pdf: "https://psyarxiv.com/8g2hz"
 publication_types:
   - "3"
 image:
