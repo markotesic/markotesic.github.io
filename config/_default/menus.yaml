@@ -24,3 +24,6 @@ main:
   - name: Contact
     url: '#contact'
     weight: 60
+  - name: Human Behavioral XAI
+    url: 'https://sites.google.com/view/human-behavioral-xai/home?authuser=0'
+    weight: 70
