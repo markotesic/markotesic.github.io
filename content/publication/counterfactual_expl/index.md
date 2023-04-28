@@ -12,23 +12,23 @@ projects: []
 slides: ""
 url_pdf: "https://arxiv.org/pdf/2205.06241.pdf"
 publication_types:
-  - "3"
+  - "2"
 image:
   caption: ""
   focal_point: ""
   preview_only: false
   filename: featured.jpg
-summary: "We investigate how counterfactual explanations of AI predictions can change people's beliefs about the causal factors in the world. We also show how health warning style messaging can prevent people from changing their beliefs about these factors."
+summary: "We explore some of the undesirable effects of providing explanations of AI systems to human users and ways to mitigate such effects. We show how providing counterfactual explanations of AI systems’ predictions unjustifiably changes people’s beliefs about causal relationships in the real world. We also show how health warning style messaging can prevent such a change in beliefs."
 url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-publication: ""
-featured: true
-date: 2022-04-01
+publication: "*Patterns*"
+featured: false
+date: 2022-12-09
 url_slides: ""
 title: "Can counterfactual explanations of AI systems’ predictions skew lay users’ causal intuitions about the world? If so, can we correct for that?"
 url_poster: ""
 url_code: ""
-doi: ""
+doi: 10.1016/j.patter.2022.100635
 ---
