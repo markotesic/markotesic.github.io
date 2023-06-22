@@ -30,5 +30,5 @@ url_slides: ""
 title: "Argument and explanation"
 url_poster: ""
 url_code: ""
-doi: 10.1016/j.patter.2022.100635
+doi: 10.1098/rsta.2022.0043
 ---
