@@ -18,7 +18,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.jpg
-summary: "In this paper, we bring together two closely related, but distinct, notions: argument and explanation. We clarify their relationship. We then provide an integrative review of relevant research on these notions, drawn both from the cognitive science and the artificial intelligence (AI) literatures. We then use this material to identify key directions for future research, indicating areas where bringing together cognitive science and AI perspectives would be mutually beneficial."
+summary: "We bring together two closely related, but distinct, notions: argument and explanation. We clarify their relationship. We then provide an integrative review of relevant research on these notions, drawn both from the cognitive science and the artificial intelligence (AI) literatures. We then use this material to identify key directions for future research, indicating areas where bringing together cognitive science and AI perspectives would be mutually beneficial."
 url_dataset: ""
 url_project: ""
 url_source: ""
