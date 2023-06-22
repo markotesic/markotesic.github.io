@@ -15,4 +15,4 @@ design:
   columns: '2'
 ---
 
-My email address is m __dot__ tesic [little monkey](https://en.wikipedia.org/wiki/At_sign#Names_in_other_languages) bbk __dot__ ac __dot__ uk.
+My email address is marko __dot__ tesic375 [little monkey](https://en.wikipedia.org/wiki/At_sign#Names_in_other_languages) gmail __dot__ com.
