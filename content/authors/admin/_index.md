@@ -6,12 +6,12 @@ title: Marko Tešić
 superuser: true
 
 # Role/position/tagline
-role: Royal Academy of Engineering Postdoctoral Research Fellow
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Birkbeck, University of London
-    url: https://www.bbk.ac.uk/departments/psychology
+  - name: Leverhulme Centre for the Future of Intelligence, University of Cambridge
+    url: http://lcfi.ac.uk/projects/kinds-of-intelligence/kinds-intelligence/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -70,8 +70,10 @@ email: ''
 highlight_name: true
 ---
 
-I am a [Royal Academy of Engineering UK IC](https://www.raeng.org.uk/grants-prizes/grants/support-for-research/ic-postdoctoral/current-and-recent-awards) postdoctoral research fellow at [Birkbeck, University of London](https://www.bbk.ac.uk/departments/psychology). I currently explore the effects that explanations of AI predictions can have on our beliefs. Previously, I've investigated people's causal and probabilistic reasoning. I also have a strong interest in data analysis, causal modeling and Bayesian network analysis. 
+I am a [Postdoctoral Researcher](http://lcfi.ac.uk/people/marko-tesic/) at [Leverhulme Centre for the Future of Intelligence, University of Cambridge](http://lcfi.ac.uk/projects/kinds-of-intelligence/kinds-intelligence/). I currently explore the capabilities of AI systems and how these capabilities translate onto the specific demands in the human workforce. This research is carried out in collaboration with the OECD and experts in occupational psychology.
 
-I received a Ph.D. in Psychology from [Birkbeck's Psychological Sciences department](https://www.bbk.ac.uk/departments/psychology). Before that I received an M.A. in Logic and Philosophy of Science from [the Munich Center for Mathematical Philosophy, LMU](https://www.mcmp.philosophie.uni-muenchen.de/index.html) and a B.A. in Philosophy from [University of Belgrade, Serbia](https://www.f.bg.ac.rs/en2). See my [CV](uploads/resume.pdf) for more info on my background, research and work experience.
+Previously, I was a [Royal Academy of Engineering UK IC](https://raeng.org.uk/programmes-and-prizes/programmes/uk-grants-and-prizes/support-for-research/uk-ic-postdoctoral-research-fellowships/awardees) postdoctoral research fellow investigating the impact that explanations of AI predictions have on our beliefs. I also investigated people's causal and probabilistic reasoning and have a strong interest in data analysis, causal modeling and Bayesian network analysis. 
+
+I received a Ph.D. in Psychology from [Birkbeck's Psychological Sciences department](https://www.bbk.ac.uk/departments/psychology), an M.A. in Logic and Philosophy of Science from [the Munich Center for Mathematical Philosophy, LMU](https://www.mcmp.philosophie.uni-muenchen.de/index.html) and a B.A. in Philosophy from [University of Belgrade, Serbia](https://www.f.bg.ac.rs/en2). See my [CV](uploads/resume.pdf) for more info on my background, research and work experience.
 
 I also play the violin in [Paprika: The Balkan and East European band](https://www.paprikamusic.com) and [The Pico Players](https://www.thepicoplayers.org).
