@@ -10,8 +10,7 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Leverhulme Centre for the Future of Intelligence
-          University of Cambridge
+  - name: Leverhulme Centre for the Future of Intelligence, University of Cambridge
     url: http://lcfi.ac.uk/projects/kinds-of-intelligence/kinds-intelligence/
 
 # Short bio (displayed in user profile at end of posts)
