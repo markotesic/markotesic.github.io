@@ -23,9 +23,9 @@ url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-publication: ""
+publication: "*Cognition*"
 featured: true
-date: 2023-01-01
+date: 2023-08-17
 url_slides: ""
 title: "The impact of explanations as communicative acts on belief in a claim: The role of source reliability"
 url_poster: ""
