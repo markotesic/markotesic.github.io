@@ -12,7 +12,7 @@ projects: []
 slides: ""
 url_pdf: ""
 publication_types:
-  - "3"
+  - "2"
 image:
   caption: ""
   focal_point: ""
