@@ -30,5 +30,5 @@ url_slides: ""
 title: "The impact of explanations as communicative acts on belief in a claim: The role of source reliability"
 url_poster: ""
 url_code: ""
-doi: "https://www.sciencedirect.com/science/article/pii/S0010027723002202"
+doi: 10.1016/j.cognition.2023.105586
 ---
