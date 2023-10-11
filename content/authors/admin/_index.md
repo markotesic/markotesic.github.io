@@ -6,7 +6,7 @@ title: Marko Tešić
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher
+role: Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
