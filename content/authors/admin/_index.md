@@ -11,7 +11,7 @@ role: Research Associate
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Leverhulme Centre for the Future of Intelligence, University of Cambridge
-    url: http://lcfi.ac.uk/projects/kinds-of-intelligence/kinds-intelligence/
+    url: http://www.lcfi.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
