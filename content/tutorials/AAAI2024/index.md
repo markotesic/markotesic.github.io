@@ -14,7 +14,7 @@ projects: []
 slides: ""
 url_pdf: ""
 publication_types:
-  - "2"
+  - "3"
 image:
   caption: ""
   focal_point: ""
@@ -26,7 +26,7 @@ url_project: ""
 url_source: ""
 url_video: ""
 publication: "*AAAI-24*"
-featured: false
+featured: true
 date: 2024-02-23
 url_slides: ""
 title: "Measurement Layouts for Capability-Oriented AI Evaluation"
