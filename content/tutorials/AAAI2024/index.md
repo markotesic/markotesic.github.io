@@ -25,12 +25,12 @@ url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-publication: "*AAAI-24*"
+publication: ""
 featured: true
 date: 2024-02-23
-url_slides: ""
+url_slides: "https://github.com/Kinds-of-Intelligence-CFI/measurement-layout-tutorial"
 title: "Measurement Layouts for Capability-Oriented AI Evaluation"
 url_poster: ""
-url_code: "https://github.com/Kinds-of-Intelligence-CFI/measurement-layout-tutorial"
+url_code: ""
 doi: ""
 ---
