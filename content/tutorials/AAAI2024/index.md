@@ -29,7 +29,7 @@ publication: ""
 featured: true
 date: 2024-02-23
 url_slides: "https://github.com/Kinds-of-Intelligence-CFI/measurement-layout-tutorial"
-title: "Measurement Layouts for Capability-Oriented AI Evaluation"
+title: "Measurement layouts for capability-oriented AI evaluation"
 url_poster: ""
 url_code: ""
 doi: ""
