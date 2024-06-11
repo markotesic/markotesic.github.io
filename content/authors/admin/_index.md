@@ -76,4 +76,4 @@ Previously, I was a [Royal Academy of Engineering UK IC](https://raeng.org.uk/pr
 
 I received a Ph.D. in Psychology from [Birkbeck's Psychological Sciences department](https://www.bbk.ac.uk/departments/psychology), an M.A. in Logic and Philosophy of Science from [the Munich Center for Mathematical Philosophy, LMU](https://www.mcmp.philosophie.uni-muenchen.de/index.html) and a B.A. in Philosophy from [University of Belgrade, Serbia](https://www.f.bg.ac.rs/en2). See my [CV](uploads/resume.pdf) for more info on my background, research and work experience.
 
-I play the violin in [Paprika: The Balkan and East European band](https://www.paprikamusic.com) and [The Pico Players](https://www.thepicoplayers.org).
+I play the violin in [Paprika: The Balkan and East European band](https://www.paprikamusic.com).
