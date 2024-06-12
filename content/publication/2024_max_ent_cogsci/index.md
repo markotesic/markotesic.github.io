@@ -13,7 +13,7 @@ projects: []
 slides: ""
 url_pdf: "https://escholarship.org/uc/item/9m83z9rq"
 publication_types:
-  - "2"
+  - "1"
 image:
   caption: ""
   focal_point: ""
