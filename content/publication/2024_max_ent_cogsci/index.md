@@ -26,7 +26,7 @@ url_source: ""
 url_video: ""
 publication: "*Proceedings of the 46th Annual Meeting of the Cognitive Science Society*"
 featured: false
-date: 2024-07-23
+date: 2024-01-01
 url_slides: ""
 title: "Testing the Maximum Entropy Approach to Awareness Growth in BayesianEpistemology and Decision Theory"
 url_poster: ""
