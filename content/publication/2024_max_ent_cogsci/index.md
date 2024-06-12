@@ -31,5 +31,5 @@ url_slides: ""
 title: "Testing the Maximum Entropy Approach to Awareness Growth in BayesianEpistemology and Decision Theory"
 url_poster: ""
 url_code: ""
-doi: 
+doi: ""
 ---
