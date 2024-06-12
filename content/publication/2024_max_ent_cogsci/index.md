@@ -19,7 +19,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.jpg
-summary: "Applying the Maximum Entropy approach to awareness growth in the Bayesian framework, i.e. learning new events that we previously did not consider in our models are possible."
+summary: "Applying the Maximum Entropy approach to awareness growth in the Bayesian framework, i.e. incorporating new events that we previously did not consider possible."
 url_dataset: ""
 url_project: ""
 url_source: ""
