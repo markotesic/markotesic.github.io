@@ -28,7 +28,7 @@ publication: "*Proceedings of the 46th Annual Meeting of the Cognitive Science S
 featured: false
 date: 2024-01-01
 url_slides: ""
-title: "Testing the Maximum Entropy Approach to Awareness Growth in BayesianEpistemology and Decision Theory"
+title: "Testing the maximum entropy approach to awareness growth in Bayesian epistemology and decision theory"
 url_poster: ""
 url_code: ""
 doi: ""
