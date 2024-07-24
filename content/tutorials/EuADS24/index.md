@@ -24,7 +24,7 @@ url_source: ""
 url_video: ""
 publication: ""
 featured: true
-date: 2024-02-20
+date: 2024-06-20
 url_slides: "https://github.com/markotesic/Robust-Evaluation-of-Generative-AI/tree/main"
 title: "Robust evaluation of generative AI"
 url_poster: ""
