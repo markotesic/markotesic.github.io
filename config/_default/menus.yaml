@@ -7,25 +7,25 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: CV
+    url: uploads/resume.pdf
+    weight: 20
   - name: Tutorials
     url: '#tutorials'
-    weight: 20
+    weight: 30
   - name: Publications
     url: '#publications'
-    weight: 30
+    weight: 40
   - name: Work in progress
     url: '#work_in_progress'
-    weight: 40
+    weight: 50
   - name: Projects
     url: '#projects'
-    weight: 50
+    weight: 60
     # Link to a PDF of your resume/CV from the menu.
     # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: Human Behavioral XAI
     url: 'https://sites.google.com/view/human-behavioral-xai/home?authuser=0'
-    weight: 60
-  - name: CV
-    url: uploads/resume.pdf
     weight: 70
   - name: Contact
     url: '#contact'
