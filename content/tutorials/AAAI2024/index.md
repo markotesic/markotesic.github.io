@@ -32,5 +32,6 @@ url_slides: "https://github.com/Kinds-of-Intelligence-CFI/measurement-layout-tut
 title: "Measurement layouts for capability-oriented AI evaluation"
 url_poster: ""
 url_code: ""
+url_github: "https://github.com/Kinds-of-Intelligence-CFI/measurement-layout-tutorial"
 doi: ""
 ---
