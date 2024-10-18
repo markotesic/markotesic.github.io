@@ -5,7 +5,7 @@ authors:
   - Jesse Clifton
   - Lewis Hammond
   - Edgar A. Duéñez-Guzmán
-  - John P.~Agapiou
+  - John P. Agapiou
   - Jayd Matyas
   - Sasha Vezhnevets
   - Dipam Chakraborty
