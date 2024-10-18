@@ -70,9 +70,9 @@ email: ''
 highlight_name: true
 ---
 
-I am a [Research Associate](http://lcfi.ac.uk/people/marko-tesic/) at the [Leverhulme Centre for the Future of Intelligence, University of Cambridge](http://www.lcfi.ac.uk/). I currently explore the capabilities of AI systems (primarily large language models) with the aim of mapping these capabilities onto the demands of occupational tasks. This research is carried out in collaboration with the OECD and experts in occupational psychology.
+I am a [Research Associate](http://lcfi.ac.uk/people/marko-tesic/) at the [Leverhulme Centre for the Future of Intelligence, University of Cambridge](http://www.lcfi.ac.uk/), where I focus on AI evaluation. My work includes assessing the validity of benchmarks, evaluating the cognitive abilities of large language models, and translating AI capabilities to job demands in the human workforce. Some of my research is supported by the [OECD](https://www.oecd.org/en/about/projects/artificial-intelligence-and-future-of-skills.html).
 
-Previously, I was a [Royal Academy of Engineering UK IC](https://raeng.org.uk/programmes-and-prizes/programmes/uk-grants-and-prizes/support-for-research/uk-ic-postdoctoral-research-fellowships/awardees) postdoctoral research fellow investigating the impact of explanations of AI predictions on our beliefs. I also studied people's causal and probabilistic reasoning and have a strong interest in data analysis, causal modeling and Bayesian network analysis. 
+Previously, I was a [Royal Academy of Engineering UK IC](https://raeng.org.uk/ukicpostdoc) postdoctoral research fellow investigating the impact of explanations of AI predictions on our beliefs. I also studied people's causal and probabilistic reasoning and have a strong interest in data analysis, causal modeling and Bayesian network analysis. 
 
 I received a Ph.D. in Psychology from [Birkbeck's Psychological Sciences department](https://www.bbk.ac.uk/departments/psychology), an M.A. in Logic and Philosophy of Science from [the Munich Center for Mathematical Philosophy, LMU](https://www.mcmp.philosophie.uni-muenchen.de/index.html) and a B.A. in Philosophy from [University of Belgrade, Serbia](https://www.f.bg.ac.rs/en2). See my [CV](uploads/resume.pdf) for more info on my background, research and work experience.
 
