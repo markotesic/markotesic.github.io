@@ -9,7 +9,7 @@ authors:
   - Jayd Matyas
   - Sasha Vezhnevets
   - Dipam Chakraborty
-  - Yue Zhao, 
+  - Yue Zhao 
   - admin
   - Barna Pásztor
   - Yunke Ao
@@ -42,7 +42,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: melting_pot.jpg
+  filename: melting_pot.png
 summary: "Analysis of design aspects and results of the Melting Pot: a competition measuring agents' ability to cooperate with others. We built cognitive profiles of agents submitted to the competition.
 benchmark for studying Cooperative AI"
 url_dataset: ""
