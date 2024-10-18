@@ -23,15 +23,14 @@ image:
 summary: "A tutorial presented at AAAI-24 on AI evaluation that focuses on estimating capabilities and creating capability profiles of AI systems (e.g., reinforcement learning agents and large language models) using a Bayesian framework."
 url_dataset: ""
 url_project: ""
-url_source: ""
+url_source: "https://github.com/Kinds-of-Intelligence-CFI/measurement-layout-tutorial"
 url_video: ""
 publication: ""
 featured: true
 date: 2024-02-20
-url_slides: "https://github.com/Kinds-of-Intelligence-CFI/measurement-layout-tutorial"
+url_slides: ""
 title: "Measurement layouts for capability-oriented AI evaluation"
 url_poster: ""
 url_code: ""
-url_github: "https://github.com/Kinds-of-Intelligence-CFI/measurement-layout-tutorial"
 doi: ""
 ---
