@@ -10,6 +10,13 @@ tags: []
 projects: []
 slides: ""
 url_pdf: ""
+
+links:
+#  - icon: twitter
+#    icon_pack: fab
+   - name: GitHub
+     url: https://github.com/markotesic/Robust-Evaluation-of-Generative-AI/
+
 publication_types:
   - "3"
 image:
@@ -25,7 +32,7 @@ url_video: ""
 publication: ""
 featured: true
 date: 2024-06-20
-url_slides: "https://github.com/markotesic/Robust-Evaluation-of-Generative-AI/tree/main"
+url_slides: ""
 title: "Robust evaluation of generative AI"
 url_poster: ""
 url_code: ""

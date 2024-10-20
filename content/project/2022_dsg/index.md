@@ -14,7 +14,7 @@ links:
 #    icon_pack: fab
    - name: GitHub
      url: https://github.com/markotesic/DSG_Morrisons
-url_code: 'https://github.com/markotesic/DSG_Morrisons'
+url_code: ''
 url_pdf: 'https://www.turing.ac.uk/sites/default/files/2022-04/the_alan_turing_institute_data_study_group_final_report_-_morrisons.pdf'
 
 url_slides: ''

@@ -13,6 +13,12 @@ tags: []
 projects: []
 slides: ""
 url_pdf: ""
+
+links:
+#  - icon: twitter
+#    icon_pack: fab
+   - name: GitHub
+     url: https://github.com/markotesic/correlation_causation
 image:
   caption: ""
   focal_point: ""
@@ -29,6 +35,6 @@ date: 2022-09-01
 url_slides: ""
 title: "(Un)interesting correlations: What are the chances that correlations lead to causation?"
 url_poster: ""
-url_code: "https://github.com/markotesic/correlation_causation"
+url_code: ""
 doi: ""
 ---

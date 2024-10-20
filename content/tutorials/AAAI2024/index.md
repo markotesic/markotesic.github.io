@@ -13,6 +13,13 @@ tags: []
 projects: []
 slides: ""
 url_pdf: ""
+
+links:
+#  - icon: twitter
+#    icon_pack: fab
+   - name: GitHub
+     url: https://github.com/Kinds-of-Intelligence-CFI/measurement-layout-tutorial
+     
 publication_types:
   - "3"
 image:
@@ -23,7 +30,7 @@ image:
 summary: "A tutorial presented at AAAI-24 on AI evaluation that focuses on estimating capabilities and creating capability profiles of AI systems (e.g., reinforcement learning agents and large language models) using a Bayesian framework."
 url_dataset: ""
 url_project: ""
-url_source: "https://github.com/Kinds-of-Intelligence-CFI/measurement-layout-tutorial"
+url_source: ""
 url_video: ""
 publication: ""
 featured: true
