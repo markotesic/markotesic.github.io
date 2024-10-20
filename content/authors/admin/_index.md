@@ -40,21 +40,21 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/m_tesic
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/marko-tesic-09b95886/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/markotesic
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/m_tesic
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Marko-Tesic
 #  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
 #    icon_pack: ai
 #    link: https://scholar.google.co.uk/citations?user=_uxA9nMAAAAJ&hl=en&oi=ao
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/markotesic
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
