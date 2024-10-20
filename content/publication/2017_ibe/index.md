@@ -24,8 +24,8 @@ url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-publication: ""
-featured: true
+publication: "*Preprint*"
+featured: false
 date: 2017-10-02
 url_slides: ""
 title: "Confirmation by Explanation: A Bayesian Justification of IBE"
