@@ -19,7 +19,7 @@ links:
    - name: GitHub
      url: https://github.com/AlexChalakov/a16z-hackathon
    - name: Devpost
-     url: https://devpost.com/software/companionai#updates
+     url: https://devpost.com/software/companionai
 url_code: ''
 url_pdf: ''
 
