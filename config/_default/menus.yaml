@@ -16,7 +16,7 @@ main:
   - name: Publications
     url: '#publications'
     weight: 40
-  - name: Past projects
+  - name: Past Projects
     url: '#projects'
     weight: 60
     # Link to a PDF of your resume/CV from the menu.
