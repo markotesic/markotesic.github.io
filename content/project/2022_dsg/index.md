@@ -1,6 +1,6 @@
 ---
 title: 'Turing Data Study Group: Optimising the supply chain to minimise waste and delivery mileage'
-summary: As part of an Alan Turing Data Study Group team I worked on predicting deliveries to stores such that waste is minimised.
+summary: I worked on predicting deliveries to stores such that waste is minimised.
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

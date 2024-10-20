@@ -13,8 +13,6 @@ tags: []
 projects: []
 slides: ""
 url_pdf: ""
-publication_types:
-  - "3"
 image:
   caption: ""
   focal_point: ""
