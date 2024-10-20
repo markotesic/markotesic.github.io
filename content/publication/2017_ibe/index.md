@@ -13,20 +13,20 @@ projects: []
 slides: ""
 url_pdf: "http://philsci-archive.pitt.edu/13328/"
 publication_types:
-  - "3"
+  - "2"
 image:
   caption: ""
   focal_point: ""
   preview_only: false
   filename: featured.jpg
-summary: "A justification of the Inference to the Best Explanation (IBE) by finding conditions under which the best explanation of evidence can provide a confirmatory boost for the hypotheses under consideration."
+summary: "A justification for Inference to the Best Explanation (IBE) is provided by identifying conditions under which the best explanation of evidence can offer a confirmatory boost to the hypotheses under consideration."
 url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
 publication: ""
 featured: true
-date: 2017-01-01
+date: 2017-10-02
 url_slides: ""
 title: "Confirmation by Explanation: A Bayesian Justification of IBE"
 url_poster: ""

@@ -1,7 +1,7 @@
 ---
 authors:
-  - Lorenzo Pacchiardi
   - admin
+  - Lorenzo Pacchiardi
   - Lucy Cheke
   - José Hernández-Orallo
   
