@@ -16,10 +16,7 @@ main:
   - name: Publications
     url: '#publications'
     weight: 40
-  - name: Work in progress
-    url: '#work_in_progress'
-    weight: 50
-  - name: Projects
+  - name: Past projects
     url: '#projects'
     weight: 60
     # Link to a PDF of your resume/CV from the menu.

@@ -19,7 +19,7 @@ url_pdf: 'https://www.turing.ac.uk/sites/default/files/2022-04/the_alan_turing_i
 
 url_slides: ''
 url_video: ''
-
+date: 2022-07-01
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
