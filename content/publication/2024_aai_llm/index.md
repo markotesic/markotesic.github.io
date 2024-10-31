@@ -15,7 +15,7 @@ abstract: "As general-purpose tools, Large Language Models (LLMs) must often rea
 tags: []
 projects: []
 slides: ""
-url_pdf: "https://openreview.net/pdf?id=eUkbTUsDgs"
+url_pdf: "https://arxiv.org/abs/2410.23242"
 publication_types:
   - "1"
 image:
