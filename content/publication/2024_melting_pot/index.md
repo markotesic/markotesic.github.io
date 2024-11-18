@@ -35,7 +35,7 @@ abstract: "Multi-agent AI research promises a path to develop human-like and hum
 tags: []
 projects: []
 slides: ""
-url_pdf: "https://openreview.net/forum?id=slqbOc67W8"
+url_pdf: "https://openreview.net/pdf/0d28b79816a7d464bb7e16f3c04d365de9bf8431.pdf"
 publication_types:
   - "1"
 image:
