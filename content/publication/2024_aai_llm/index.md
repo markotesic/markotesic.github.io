@@ -16,6 +16,13 @@ tags: []
 projects: []
 slides: ""
 url_pdf: "https://arxiv.org/abs/2410.23242"
+links:
+#  - icon: twitter
+#    icon_pack: fab
+#   - name: Website
+#     url: https://ai-evaluation-paradigms.github.io
+   - name: GitHub
+     url: https://github.com/Kinds-of-Intelligence-CFI/LLM-AAI
 publication_types:
   - "1"
 image:
