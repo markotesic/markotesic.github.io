@@ -21,7 +21,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: UMAP_projections_jaccard_dist_interactive.html
+  filename: UMAP_fixed.png
 summary: "We analyse 125+ evaluation studies and identify six major paradigms of AI evaluation, each shaped by distinct goals, methodologies, and research cultures."
 url_dataset: ""
 url_project: ""
