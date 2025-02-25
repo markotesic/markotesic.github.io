@@ -19,8 +19,11 @@ url_pdf: "https://arxiv.org/abs/2502.15620"
 links:
 #  - icon: twitter
 #    icon_pack: fab
-   - name: Paper website
+   - name: Website
      url: https://ai-evaluation-paradigms.github.io
+   - name: GitHub
+     url: https://github.com/Kinds-of-Intelligence-CFI/Paradigms-of-AI-Evaluation
+
 publication_types:
   - "1"
 image:
