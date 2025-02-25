@@ -15,6 +15,12 @@ tags: []
 projects: []
 slides: ""
 url_pdf: "https://arxiv.org/abs/2502.15620"
+
+links:
+#  - icon: twitter
+#    icon_pack: fab
+   - name: Paper website
+     url: https://ai-evaluation-paradigms.github.io
 publication_types:
   - "1"
 image:
