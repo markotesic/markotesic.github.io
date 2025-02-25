@@ -14,6 +14,14 @@ tags: []
 projects: []
 slides: ""
 url_pdf: "https://arxiv.org/abs/2410.11672"
+
+links:
+#  - icon: twitter
+#    icon_pack: fab
+#   - name: Website
+#     url: https://ai-evaluation-paradigms.github.io
+   - name: GitHub
+     url: https://github.com/Kinds-of-Intelligence-CFI/benchmark-ground-truth-predictability
 publication_types:
   - "1"
 image:
