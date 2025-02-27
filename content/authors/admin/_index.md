@@ -49,8 +49,8 @@ social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=_uxA9nMAAAAJ&hl=en&oi=ao
-  - icon: x-twitter
-    icon_pack: fa
+  - icon: x
+    icon_pack: fab
     link: https://twitter.com/m_tesic
 #  - icon: researchgate
 #    icon_pack: ai
