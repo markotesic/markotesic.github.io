@@ -50,7 +50,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=_uxA9nMAAAAJ&hl=en&oi=ao
   - icon: x-twitter
-    icon_pack: fab
+    icon_pack: fa
     link: https://twitter.com/m_tesic
 #  - icon: researchgate
 #    icon_pack: ai
