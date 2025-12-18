@@ -50,7 +50,7 @@ url_source: ""
 url_video: ""
 publication: "*NeurIPS 2025 Track on Datasets and Benchmarks*"
 featured: false
-date: 2025-12-21
+date: 2025-12-03
 url_slides: ""
 title: "Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia"
 url_poster: ""
