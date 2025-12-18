@@ -6,12 +6,12 @@ title: Marko Tešić
 superuser: true
 
 # Role/position/tagline
-role: Research Associate
+role: Senior AI Analyst
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Leverhulme Centre for the Future of Intelligence, University of Cambridge
-    url: http://www.lcfi.ac.uk/
+  - name: Department for Science, Innovation and Technology
+    url: https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -70,9 +70,11 @@ email: ''
 highlight_name: true
 ---
 
-I am a [Research Associate](http://lcfi.ac.uk/people/marko-tesic/) at the [Leverhulme Centre for the Future of Intelligence, University of Cambridge](http://www.lcfi.ac.uk/), where I focus on AI evaluation. My work includes assessing the validity of benchmarks, evaluating the cognitive abilities of large language models, and translating AI capabilities to job demands in the human workforce. Some of my research is supported by the [OECD](https://www.oecd.org/en/about/projects/artificial-intelligence-and-future-of-skills.html).
+I am a Senior AI Analyst at the [Department for Science, Innovation and Technology](https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology) (DSIT), working on the impacts of AI on labour markets and the economy. My work includes modelling the effects of AI on productivity and workforce change, assessing AI adoption, and supporting policy on AI skills and adoption.
 
-Previously, I was a [Royal Academy of Engineering UK IC](https://raeng.org.uk/ukicpostdoc) postdoctoral research fellow investigating the impact of explanations of AI predictions on our beliefs. I also studied people's causal and probabilistic reasoning and have a strong interest in data analysis, causal modeling and Bayesian network analysis. 
+Previously, I was a [Research Associate](http://lcfi.ac.uk/people/marko-tesic/) at the [Leverhulme Centre for the Future of Intelligence, University of Cambridge](http://www.lcfi.ac.uk/), where I worked on AI evaluation. This included assessing the validity of benchmarks, evaluating the capabilities of large language models, and mapping AI capabilities to job tasks in the human workforce. This research was supported by the [OECD](https://www.oecd.org/en/about/projects/artificial-intelligence-and-future-of-skills.html).
+
+Before that, I was a [Royal Academy of Engineering UK IC](https://raeng.org.uk/ukicpostdoc) postdoctoral research fellow investigating the impact of explanations of AI predictions on our beliefs. I also worked people's causal and probabilistic reasoning and have a strong interest in data analysis and Bayesian modelling. 
 
 I received a Ph.D. in Psychology from [Birkbeck's Psychological Sciences department](https://www.bbk.ac.uk/departments/psychology), an M.A. in Logic and Philosophy of Science from [the Munich Center for Mathematical Philosophy, LMU](https://www.mcmp.philosophie.uni-muenchen.de/index.html) and a B.A. in Philosophy from [University of Belgrade, Serbia](https://www.f.bg.ac.rs/en2). See my [CV](uploads/resume.pdf) for more info on my background, research and work experience.
 
