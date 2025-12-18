@@ -10,7 +10,7 @@ main:
   - name: CV
     url: uploads/resume.pdf
     weight: 20
-  - name: Tutorials
+  - name: Projects & Tutorials
     url: '#tutorials'
     weight: 30
   - name: Publications

@@ -1,5 +1,5 @@
 ---
-title: Tutorials
+title: Projects & Tutorials
 cms_exclude: true
 
 # View.
