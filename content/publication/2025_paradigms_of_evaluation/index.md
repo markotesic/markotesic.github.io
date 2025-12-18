@@ -14,7 +14,7 @@ abstract: "Research in AI evaluation has grown increasingly complex and multidis
 tags: []
 projects: []
 slides: ""
-url_pdf: "https://arxiv.org/abs/2502.15620"
+url_pdf: "https://www.ijcai.org/proceedings/2025/1153.pdf"
 
 links:
 #  - icon: twitter
@@ -36,7 +36,7 @@ url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-publication: "*Preprint*"
+publication: "IJCAI-25 Survey Track"
 featured: false
 date: 2025-02-21
 url_slides: ""
