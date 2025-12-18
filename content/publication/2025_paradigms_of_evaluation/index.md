@@ -36,7 +36,7 @@ url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-publication: "IJCAI-25 Survey Track"
+publication: "*IJCAI-25 Survey Track*"
 featured: false
 date: 2025-02-21
 url_slides: ""
