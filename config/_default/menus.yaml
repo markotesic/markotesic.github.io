@@ -10,12 +10,15 @@ main:
   - name: CV
     url: uploads/resume.pdf
     weight: 20
+  - name: Projects
+    url: '#current_projects'
+    weight: 30
   - name: Tutorials
     url: '#tutorials'
-    weight: 30
+    weight: 40
   - name: Publications
     url: '#publications'
-    weight: 40
+    weight: 50
   - name: Past Projects
     url: '#projects'
     weight: 60
