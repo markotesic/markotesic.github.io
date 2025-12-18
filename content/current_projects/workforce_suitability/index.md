@@ -10,7 +10,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 publication_short: ""
-abstract: ""
+abstract: "The project develops a framework for assessing the suitability of large language models for workforce tasks. It links annotated AI benchmarks, model performance evaluations, LLM capability profiles, and human work activities to estimate how suitable different LLMs are for specific job domains. The framework can be used to inform decisions about which models to pilot for particular workforce activities."
 tags: []
 projects: []
 slides: ""
@@ -29,7 +29,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.jpg
-summary: "The project develops a framework for assessing how well large language models possess the core cognitive capabilities required for human work activities. It links annotated AI benchmarks, model performance evaluations, and human work activities to estimate how suitable different LLMs are for specific jobs domains."
+summary: "The project develops a framework for assessing the suitability of large language models for workforce tasks. It links annotated AI benchmarks, model performance evaluations, LLM capability profiles, and human work activities to estimate how suitable different LLMs are for specific job domains. The framework can be used to inform decisions about which models to pilot for particular workforce activities."
 url_dataset: ""
 url_project: ""
 url_source: ""
