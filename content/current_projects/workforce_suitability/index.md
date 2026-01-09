@@ -10,7 +10,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 publication_short: ""
-abstract: "The project develops a framework for assessing the suitability of large language models for workforce tasks. It links annotated AI benchmarks, model performance evaluations, LLM capability profiles, and human work activities to estimate how suitable different LLMs are for specific job domains. The framework can be used to inform decisions about which models to pilot for particular workforce activities."
+abstract: "The project develops a framework for assessing the suitability of large language models for workforce tasks. It links annotated AI benchmarks, model performance evaluations, LLM capability profiles, and human work activities to estimate how suitable different LLMs are for specific job domains. The framework can be used to inform decisions about which models to pilot for particular workforce activities. Presentation describing the project and results can be found [here](https://www.dropbox.com/scl/fi/yqswou2cq65arwc4b2vik/UK-AI-Forum.pptx?rlkey=b718c0tbn2iqx6i2hz6ea4nls&e=1&st=cg33s3mv&dl=0)"
 tags: []
 projects: []
 slides: ""
