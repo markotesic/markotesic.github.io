@@ -4,7 +4,21 @@ authors:
   - Marwa Abdulhai
   - Manfred Diaz
   - admin
-  - et al.
+  - Rakshit S. Trivedi
+  - Alexander Sasha Vezhnevets
+  - Lewis Hammond
+  - Jesse Clifton
+  - Minsuk Chang
+  - Edgar A. Duéñez-Guzmán
+  - John P. Agapiou
+  - Jayd Matyas
+  - Danny Karmon
+  - Dylan Hadfield-Menell
+  - Natasha Jaques
+  - Tim Baarslag
+  - Jose Hernandez-Orallo
+  - Joel Z. Leibo
+  - Concordia contest participants
   
 author_notes: []
 publication_short: ""
