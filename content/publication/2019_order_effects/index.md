@@ -23,7 +23,7 @@ url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-publication: "*Proceedings of the 41th Annual Meeting of the Cognitive Science Society*"
+publication: "*Proceedings of the 41st Annual Meeting of the Cognitive Science Society*"
 featured: false
 date: 2019-01-01
 url_slides: ""

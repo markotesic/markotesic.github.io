@@ -5,7 +5,7 @@ authors:
   - Joel Z. Leibo
   - Rakshit S. Trivedi
   - José Hernández-Orallo
-  
+
 author_notes: []
 publication_short: ""
 abstract: "The development and evaluation of social capabilities in
@@ -54,10 +54,10 @@ url_source: ""
 url_video: ""
 publication: "*Preprint*"
 featured: false
-date: 2025-03-21
+date: 2025-09-17
 url_slides: ""
 title: "Beyond the high score: Prosocial ability profiles of multi-agent populations"
 url_poster: ""
 url_code: ""
-doi: ""
+doi: "10.48550/arXiv.2509.14485"
 ---

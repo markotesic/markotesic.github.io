@@ -19,7 +19,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.jpg
-summary: "Investigating people's reasoning in explaining away situations by manipulating the priors of causes and the structural complexity of the causal Baeysian networks."
+summary: "Investigating people's reasoning in explaining away situations by manipulating the priors of causes and the structural complexity of the causal Bayesian networks."
 url_dataset: ""
 url_project: ""
 url_source: ""

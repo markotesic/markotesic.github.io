@@ -1,0 +1,58 @@
+{{- /* Based on the pinned Wowchemy search index (17d5d3f0ca43).
+     Render Markdown summaries before removing HTML, normalize local content-type
+     aliases for the existing search UI, and link the primary author to About. */ -}}
+{{- $index := slice -}}
+{{- $pages := site.RegularPages -}}
+{{- $pages = $pages | union (where (where site.Pages "Kind" "section") "Type" "book") -}}
+{{- $pages = $pages | union (where (where site.Pages "Section" "authors") "Params.superuser" "!=" nil) -}}
+
+{{- range $pages -}}
+  {{- if and (not .Draft) (not .Params.private) | and (ne .Params.searchable false) -}}
+    {{- $desc := "" -}}
+    {{- if .Params.summary -}}
+      {{- $desc = .Params.summary | markdownify -}}
+    {{- else if .Params.abstract -}}
+      {{- $desc = .Params.abstract | markdownify -}}
+    {{- else -}}
+      {{- $desc = .Summary -}}
+    {{- end -}}
+    {{- $desc = trim ($desc | plainify | htmlUnescape | replaceRE "\\s+" " ") " " -}}
+
+    {{- $authors := .Params.authors -}}
+    {{- $rel_permalink := .RelPermalink -}}
+    {{- $permalink := .Permalink -}}
+    {{- $section := .Section -}}
+    {{- if eq $section "current_projects" -}}
+      {{- $section = "project" -}}
+    {{- else if eq $section "tutorials" -}}
+      {{- $section = "Tutorials" -}}
+    {{- end -}}
+
+    {{- if eq .Section "authors" -}}
+      {{- if .Params.superuser -}}
+        {{- $permalink = printf "%s#about" site.Home.Permalink -}}
+        {{- $rel_permalink = printf "%s#about" site.Home.RelPermalink -}}
+      {{- else -}}
+        {{- $username := path.Base .File.Dir -}}
+        {{- with site.GetPage (printf "/authors/%s" $username) -}}
+          {{- $permalink = .Permalink -}}
+          {{- $rel_permalink = .RelPermalink -}}
+        {{- end -}}
+      {{- end -}}
+    {{- else if .Params.authors -}}
+      {{- $authors = slice -}}
+      {{- range .Params.authors -}}
+        {{- $person := site.GetPage (printf "/authors/%s" (urlize .)) -}}
+        {{- if and $person $person.File -}}
+          {{- $authors = $authors | append $person.Title -}}
+        {{- else -}}
+          {{- $authors = $authors | append (. | plainify) -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+
+    {{- $index = $index | append (dict "objectID" .File.UniqueID "date" .Date.UTC.Unix "publishdate" .PublishDate "lastmod" .Lastmod.UTC.Unix "expirydate" .ExpiryDate.UTC.Unix "lang" .Lang "permalink" $permalink "relpermalink" $rel_permalink "title" .Title "summary" $desc "content" (.Plain | htmlUnescape | truncate 5000) "authors" $authors "kind" .Kind "type" .Type "section" $section "tags" .Params.Tags "categories" .Params.Categories) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $index | jsonify -}}

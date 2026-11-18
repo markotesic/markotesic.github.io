@@ -6,7 +6,7 @@ authors:
   - Jonathan Prunty
   - Konstantinos Voudouris
   - Lucy Cheke
-  
+
 author_notes:
   - "Equal contribution"
   - "Equal contribution"
@@ -30,17 +30,19 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.jpg
-summary: "Evaluation of the physical common-sense reasoning abilities of LLMs (Claude 3.5 Sonnet, GPT-4o, and Gemini 1.5 Pro) by embedding them in a 3D environment (Animal-AI Testbed) and comparing their performance to other agents and human children."
+summary: "We evaluate LLMs' physical common-sense by giving them control of agents in the Animal-AI environment and comparing their performance with other agents and human children."
 url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-publication: "*Preprint*"
+publication: "*PRICAI 2025: Trends in Artificial Intelligence*, pp. 272–287"
 featured: false
-date: 2024-01-03
+date: 2026-04-21
 url_slides: ""
 title: "A little less conversation, a little more action, please: Investigating the physical common-sense of LLMs in a 3D embodied environment"
 url_poster: ""
 url_code: ""
-doi: ""
+doi: "10.1007/978-981-95-7078-2_18"
 ---
+
+Published in the proceedings of PRICAI 2025, with the Springer version appearing on 21 April 2026. The PDF link points to the earlier open-access arXiv preprint.

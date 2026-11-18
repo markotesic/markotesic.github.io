@@ -4,7 +4,7 @@ authors:
   - John Burden
   - Lorenzo Pacchiardi
   - José Hernández-Orallo
-  
+
 author_notes:
   - "Equal contribution"
   - "Equal contribution"
@@ -43,5 +43,5 @@ url_slides: ""
 title: "Paradigms of AI Evaluation: Mapping Goals, Methodologies and Culture"
 url_poster: ""
 url_code: ""
-doi: ""
+doi: "10.24963/ijcai.2025/1153"
 ---

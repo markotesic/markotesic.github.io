@@ -6,15 +6,15 @@ title: Marko Tešić
 superuser: true
 
 # Role/position/tagline
-role: Senior AI Analyst
+role: Senior Research Analyst
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Department for Science, Innovation and Technology
-    url: https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology
+  - name: AI Economics Institute
+    url: https://www.gov.uk/government/publications/introducing-the-ai-economics-institute
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I lead economic modelling and scenario analysis to understand AI's potential impacts on productivity, growth and labour markets.
 
 # Interests to show in About widget
 # interests:
@@ -42,7 +42,7 @@ organizations:
 social:
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/marko-tesic-09b95886/
+    link: https://uk.linkedin.com/in/marko-te%C5%A1i%C4%87-09b95886
   - icon: github
     icon_pack: fab
     link: https://github.com/markotesic
@@ -70,12 +70,12 @@ email: ''
 highlight_name: true
 ---
 
-I am a Senior AI Analyst at the [Department for Science, Innovation and Technology](https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology) (DSIT), working on the impacts of AI on labour markets and the economy. My work includes modelling the effects of AI on productivity and workforce change, assessing AI adoption, and supporting policy on AI skills and adoption.
+I am a Senior Research Analyst at the [AI Economics Institute](https://www.gov.uk/government/publications/introducing-the-ai-economics-institute), a joint research organisation of the Cabinet Office and HM Treasury. I lead economic modelling and scenario analysis to understand how advances in AI could affect productivity, economic growth and labour markets, helping inform UK government policy.
 
-Previously, I was a [Research Associate](http://lcfi.ac.uk/people/marko-tesic/) at the [Leverhulme Centre for the Future of Intelligence, University of Cambridge](http://www.lcfi.ac.uk/), where I worked on AI evaluation. This included assessing the validity of benchmarks, evaluating the capabilities of large language models, and mapping AI capabilities to job tasks in the human workforce. This research was supported by the [OECD](https://www.oecd.org/en/about/projects/artificial-intelligence-and-future-of-skills.html).
+Previously, I was a Research Associate at the [Leverhulme Centre for the Future of Intelligence, University of Cambridge](http://www.lcfi.ac.uk/), where I worked on AI evaluation. This included assessing benchmark validity, evaluating the capabilities of large language models, and mapping AI capabilities to workplace tasks. This research was supported by the [OECD](https://www.oecd.org/en/about/projects/artificial-intelligence-and-future-of-skills.html).
 
-Before that, I was a [Royal Academy of Engineering UK IC](https://raeng.org.uk/ukicpostdoc) postdoctoral research fellow investigating the impact of explanations of AI predictions on our beliefs. I also worked people's causal and probabilistic reasoning and have a strong interest in data analysis and Bayesian modelling. 
+Before that, I was a [Royal Academy of Engineering UK IC](https://raeng.org.uk/ukicpostdoc) Postdoctoral Research Fellow, investigating how explanations of AI predictions influence people's beliefs. My research has also covered causal and probabilistic reasoning, data analysis and Bayesian modelling.
 
-I received a Ph.D. in Psychology from [Birkbeck's Psychological Sciences department](https://www.bbk.ac.uk/departments/psychology), an M.A. in Logic and Philosophy of Science from [the Munich Center for Mathematical Philosophy, LMU](https://www.mcmp.philosophie.uni-muenchen.de/index.html) and a B.A. in Philosophy from [University of Belgrade, Serbia](https://www.f.bg.ac.rs/en2). See my [CV](uploads/resume.pdf) for more info on my background, research and work experience.
+I hold a Ph.D. in Psychology from [Birkbeck](https://www.bbk.ac.uk/departments/psychology), an M.A. in Logic and Philosophy of Science from [LMU Munich](https://www.mcmp.philosophie.uni-muenchen.de/index.html), and a B.A. in Philosophy from the [University of Belgrade](https://www.f.bg.ac.rs/en2). See my [CV](/uploads/resume.pdf) for more on my background and experience.
 
-I play the violin in [Paprika: The Balkan and East European band](https://www.paprikamusic.com).
+I play the violin in [Paprika](https://www.paprikamusic.com), a Balkan and East European band.

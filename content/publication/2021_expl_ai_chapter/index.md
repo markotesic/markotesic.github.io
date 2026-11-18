@@ -18,7 +18,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.jpg
-summary: "What do we do with our existing models when we encounter new variables to consider? Does the order in which we learn variables matter? The paper investigates two modeling strategies and experimentally tests how people reason when presented with new variables and in different orders."
+summary: "We examine philosophical and psychological accounts of explanation to inform the design of AI-generated explanations, including their communicative role and implications for trust."
 url_dataset: ""
 url_project: ""
 url_source: ""
