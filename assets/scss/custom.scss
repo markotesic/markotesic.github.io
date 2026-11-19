@@ -1,5 +1,6 @@
 #current_projects.home-section,
-#publications.home-section {
+#publications.home-section,
+#tutorials.home-section {
   padding: 2.5rem 0;
 
   > .container {
@@ -13,7 +14,7 @@
 }
 
 @media (min-width: 768px) {
-  .selected-work-grid {
+  .two-column-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }

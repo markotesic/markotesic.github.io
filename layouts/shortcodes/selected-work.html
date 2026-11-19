@@ -1,4 +1,4 @@
-<div class="research-grid selected-work-grid">
+<div class="research-grid two-column-grid">
   {{ range slice "/policy/ai-scenarios-2030" "/current_projects/workforce_suitability" }}
     {{ partial "research_link_card.html" (site.GetPage .) }}
   {{ end }}

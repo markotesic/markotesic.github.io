@@ -17,6 +17,8 @@ links:
 #    icon_pack: fab
    - name: GitHub
      url: https://github.com/markotesic/Robust-Evaluation-of-Generative-AI/
+   - name: Summer School on Generative AI
+     url: https://www.euads.org/fjkdlasjdiglsmdgkcxjhvckh/euads-summer-school-913-487/
 
 publication_types:
   - "3"
@@ -25,7 +27,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.jpg
-summary: "A tutorial on evaluating the capabilities of LLMs presented at the European Association for Data Science [Summer School on Generative AI](https://www.euads.org/fjkdlasjdiglsmdgkcxjhvckh/euads-summer-school-913-487/)"
+summary: "A tutorial on evaluating large language model capabilities, presented at the European Association for Data Science’s Summer School on Generative AI."
 url_dataset: ""
 url_project: ""
 url_source: ""

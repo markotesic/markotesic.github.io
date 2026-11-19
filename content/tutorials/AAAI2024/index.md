@@ -28,7 +28,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.jpg
-summary: "A tutorial presented at AAAI-24 on AI evaluation that focuses on estimating capabilities and creating capability profiles of AI systems (e.g., reinforcement learning agents and large language models) using a Bayesian framework."
+summary: "An AAAI-24 tutorial on using Bayesian methods to build capability profiles for large language models and reinforcement learning agents."
 url_dataset: ""
 url_project: ""
 url_source: ""
