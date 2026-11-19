@@ -1,4 +1,5 @@
 ---
+research_topics: [causal-and-probabilistic-reasoning]
 authors:
   - admin
   - Alice Liefgreen

@@ -1,5 +1,6 @@
 ---
-title: '(Causal) Bayesian modeling of investment factors and Environmental, Social and Governance (ESG) criteria'
+research_topics: [shorter-projects]
+title: 'Causal Bayesian modelling of investment factors and environmental, social and governance (ESG) criteria'
 summary: As part of the BlackRock's Factor Based Strategies Group I worked on understanding how some ESG criteria such as carbon emissions can impact return on equity.
 
 # Optional external URL for project (replaces project detail page).

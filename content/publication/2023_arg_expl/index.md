@@ -1,4 +1,5 @@
 ---
+research_topics: [explanation-and-reasoning]
 authors:
   - Ulrike Hahn
   - admin

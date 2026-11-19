@@ -1,0 +1,24 @@
+{{ define "main" }}
+{{ $topic := .File.ContentBaseName }}
+{{ $items := where site.RegularPages "Params.research_topics" "intersect" (slice $topic) }}
+{{ $kinds := dict "publication" "Paper" "current_projects" "Research project" "project" "Project" "tutorials" "Tutorial" }}
+<div class="article-container research-page">
+  <p class="research-back"><a href="{{ .CurrentSection.RelPermalink }}">All research topics</a></p>
+  <h1>{{ .Title }}</h1>
+  <p>{{ .Params.summary }}</p>
+
+  <ul class="research-results">
+    {{ range $items.ByDate.Reverse }}
+      <li class="research-card">
+        {{ $kind := .Params.resource_kind | default (index $kinds .Section) }}
+        <p class="research-kind">{{ $kind }}{{ if not .Date.IsZero }} · {{ .Date.Format "2006" }}{{ end }}</p>
+        <h2><a href="{{ .Params.external_link | default .RelPermalink }}">{{ .Params.short_title | default .Title }}</a></h2>
+        {{ with .Params.summary }}<p>{{ . | markdownify }}</p>{{ end }}
+      </li>
+    {{ end }}
+  </ul>
+  {{ if where $items "Section" "publication" }}
+    <p class="research-archive-link"><a href="{{ (site.GetPage "/publication").RelPermalink }}">Browse all papers</a></p>
+  {{ end }}
+</div>
+{{ end }}

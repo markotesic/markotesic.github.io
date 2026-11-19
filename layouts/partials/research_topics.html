@@ -1,0 +1,10 @@
+{{ $projectsAnchor := . }}
+<ul class="research-grid research-topic-links">
+  {{ $research := site.GetPage "/research" }}
+  {{ range $research.RegularPages.ByWeight }}
+    <li{{ if eq .File.ContentBaseName "shorter-projects" }} id="{{ $projectsAnchor }}"{{ end }}>
+      {{ partial "research_link_card.html" . }}
+    </li>
+  {{ end }}
+</ul>
+<p class="research-archive-link"><a href="{{ (site.GetPage "/publication").RelPermalink }}">All papers</a></p>

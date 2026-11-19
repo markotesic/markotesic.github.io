@@ -1,4 +1,5 @@
 ---
+research_topics: [explanation-and-reasoning]
 title: "Give us a hand, mate! A holistic review of research on human-machine teaming"
 authors:
   - Jitu Patel

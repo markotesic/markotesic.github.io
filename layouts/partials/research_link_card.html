@@ -1,0 +1,20 @@
+{{ $page := . }}
+{{ $coverPage := $page }}
+{{ with $page.Params.cover_from }}
+  {{ $coverPage = site.GetPage . }}
+{{ end }}
+{{ $titleID := printf "card-%s" $page.File.ContentBaseName }}
+<a class="research-link-card" href="{{ $page.Params.external_link | default $page.RelPermalink }}" aria-labelledby="{{ $titleID }}">
+  {{ with $coverPage.Resources.GetMatch "featured.*" }}
+    {{ $image := .Fit "920x430 webp q85" }}
+    <div class="research-card-visual">
+      <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="" loading="lazy" decoding="async">
+    </div>
+  {{ end }}
+  <div class="research-card-copy">
+    {{ with $page.Params.resource_kind }}<p class="research-kind">{{ . }}</p>{{ end }}
+    <h2 id="{{ $titleID }}">{{ $page.Params.short_title | default $page.Title }}</h2>
+    <p>{{ $page.Params.summary }}</p>
+    <span class="research-card-arrow" aria-hidden="true">→</span>
+  </div>
+</a>

@@ -1,4 +1,5 @@
 ---
+research_topics: [ai-evaluation]
 authors:
   - John Burden
   - José Hernández-Orallo

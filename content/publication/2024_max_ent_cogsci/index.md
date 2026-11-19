@@ -1,4 +1,5 @@
 ---
+research_topics: [causal-and-probabilistic-reasoning, philosophy-of-science]
 authors:
   - Rafael Fuchs
   - admin

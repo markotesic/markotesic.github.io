@@ -1,4 +1,5 @@
 ---
+research_topics: [ai-evaluation]
 authors:
   - admin
   - Yue Zhao
@@ -59,5 +60,4 @@ url_slides: ""
 title: "Beyond the high score: Prosocial ability profiles of multi-agent populations"
 url_poster: ""
 url_code: ""
-doi: "10.48550/arXiv.2509.14485"
 ---

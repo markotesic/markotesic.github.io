@@ -26,6 +26,12 @@
       {{- $section = "project" -}}
     {{- else if eq $section "tutorials" -}}
       {{- $section = "Tutorials" -}}
+    {{- else if eq $section "policy" -}}
+      {{- $section = "Research and analysis" -}}
+    {{- else if eq $section "research" -}}
+      {{- $section = "Research topics" -}}
+    {{- else if eq .RelPermalink ("/about/" | relURL) -}}
+      {{- $section = "About" -}}
     {{- end -}}
 
     {{- if eq .Section "authors" -}}

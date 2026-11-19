@@ -1,4 +1,5 @@
 ---
+research_topics: [shorter-projects]
 title: 'Mistral AI Hackathon - CompanionAI'
 summary: I developed a conversational companion for elderly individuals and those with memory challenges. The companion, implemented as a Telegram bot and using Mistral AI LLMs as backend, maintains conversational history and is designed to be empathetic toward the user.
 

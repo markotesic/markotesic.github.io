@@ -1,4 +1,5 @@
 ---
+research_topics: [ai-work-and-policy, ai-evaluation]
 title: "Reverse Turing Tests for Human-Machine Task Suitability Assessments Should be Profile-Driven"
 authors:
   - Jonathan Prunty

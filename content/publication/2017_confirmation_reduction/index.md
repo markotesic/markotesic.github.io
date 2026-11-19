@@ -1,4 +1,5 @@
 ---
+research_topics: [philosophy-of-science]
 authors:
   - admin
 publication_short: ""

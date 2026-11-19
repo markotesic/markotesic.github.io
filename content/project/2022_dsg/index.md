@@ -1,4 +1,5 @@
 ---
+research_topics: [shorter-projects]
 title: 'Turing Data Study Group: Optimising the supply chain to minimise waste and delivery mileage'
 summary: I worked on predicting deliveries to stores such that waste is minimised.
 

@@ -18,7 +18,6 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: "Marko Tešić leads economic modelling and scenario analysis at the AI Economics Institute, studying AI's impacts on productivity, growth and labour markets."
-    twitter: 'm_tesic'
   analytics:
     # GA4 measurement ID, verified against the existing Website property.
     google_analytics: 'G-FSL8BB4DJ3'

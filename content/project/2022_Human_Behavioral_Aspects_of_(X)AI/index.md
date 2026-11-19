@@ -1,4 +1,6 @@
 ---
+research_topics: [explanation-and-reasoning]
+resource_kind: Workshop
 title: 'Workshop on Human Behavioral Aspects of (X)AI'
 summary: I organised a workshop that brought together researchers from machine learning and cognitive science to discuss the behavioral aspects of explainable AI.
 
