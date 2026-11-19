@@ -38,7 +38,7 @@
   margin: 1.5rem 0;
 }
 
-.research-link-card {
+a.research-link-card {
   display: flex;
   flex-direction: column;
   height: 100%;
@@ -46,6 +46,14 @@
   border-radius: 0.55rem;
   overflow: hidden;
   color: inherit;
+
+  .dark & {
+    &,
+    &:hover,
+    &:focus {
+      color: inherit;
+    }
+  }
 
   &:hover,
   &:focus-visible {
@@ -88,6 +96,14 @@
   flex: 1;
   flex-direction: column;
   padding: 0.85rem 1rem 0.65rem;
+
+  h2 {
+    color: $sta-link;
+
+    .dark & {
+      color: $sta-dark-link;
+    }
+  }
 
   p {
     margin: 0 0 0.55rem;
