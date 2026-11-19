@@ -5,7 +5,7 @@ show_date: false
 share: false
 ---
 
-I am a Senior Research Analyst at the [AI Economics Institute](https://www.gov.uk/government/publications/introducing-the-ai-economics-institute), where I lead economic modelling and scenario analysis.
+I am a Senior Research Analyst at the [AI Economics Institute](https://www.gov.uk/government/publications/introducing-the-ai-economics-institute), where I lead economic modelling and scenario analysis. My work examines how advances in AI capabilities and changes in adoption could affect productivity, labour displacement and wages.
 
 Before joining the Institute, I was a Senior Analyst at the Department for Science, Innovation and Technology (DSIT). I modelled the potential impacts of AI and analysed evidence on business adoption and AI skills to inform policy in both areas. As part of this work, we published the [AI adoption survey 2026](https://www.gov.uk/government/publications/ai-adoption-survey-2026). I also helped develop [AI Scenarios 2030](/policy/ai-scenarios-2030/) with colleagues across government, exploring five possible futures for AI.
 

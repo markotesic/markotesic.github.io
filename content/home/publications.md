@@ -3,7 +3,7 @@
 widget: blank
 headless: true
 weight: 55
-title: Explore research
+title: Research
 design:
   columns: '1'
 ---
