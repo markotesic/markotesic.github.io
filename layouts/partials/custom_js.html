@@ -1,0 +1,10 @@
+<script>
+  for (const link of document.querySelectorAll('#navbar-main .navbar-brand')) {
+    link.title = 'Home';
+    link.setAttribute('aria-label', '{{ site.Title }}, home');
+  }
+
+  for (const label of document.querySelectorAll('#navbar-content .nav-link > span:first-of-type')) {
+    label.dataset.menuLabel = label.textContent;
+  }
+</script>

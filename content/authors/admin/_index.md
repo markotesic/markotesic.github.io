@@ -69,6 +69,6 @@ highlight_name: true
 
 I am a Senior Research Analyst at the [AI Economics Institute](https://www.gov.uk/government/publications/introducing-the-ai-economics-institute), a joint research organisation of the Cabinet Office and HM Treasury. I lead economic modelling and scenario analysis to assess how advances in AI could affect productivity, economic growth and labour markets, helping inform UK government policy.
 
-Previously, I was a Senior AI Analyst at the Department for Science, Innovation and Technology (DSIT), where I worked on AI business adoption and AI skills to inform policy in both areas. At the University of Cambridge, I worked on AI capability evaluation. My research has also examined how AI explanations shape people’s beliefs and how people reason about causes and uncertainty.
+Previously, I was a Senior AI Analyst at the [Department for Science, Innovation and Technology (DSIT)](https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology), where I worked on AI business adoption and AI skills to inform policy in both areas. At the [University of Cambridge](https://www.lcfi.ac.uk/), I worked on AI capability evaluation. My research has also examined how AI explanations shape people’s beliefs and how people reason about causes and uncertainty.
 
 [More about me](/about/)
